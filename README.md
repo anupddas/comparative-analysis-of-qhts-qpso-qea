@@ -179,11 +179,8 @@ python QEA.py
 
 Algorithms are compared using:
 
-* Best fitness value
 * Mean fitness value
-* Convergence rate
 * Stability across runs
-* Iteration efficiency
 * Exploration capability
 
 ---
@@ -192,9 +189,6 @@ Algorithms are compared using:
 
 The results include:
 
-* Convergence curves
-* Performance comparison plots
-* Cost vs iteration graphs
 * Best solution comparisons
 
 These visualizations are available in the **plots** directory.
@@ -210,7 +204,7 @@ General experimental findings may include:
 * Exploration behavior differences
 * Performance trade-offs between algorithms
 
-(Detailed observations should be interpreted from experimental plots.)
+(Detailed observations should be interpreted from experimental data.)
 
 ---
 
@@ -274,13 +268,13 @@ https://github.com/anupddas
 
 ## Citation
 
-If you use this implementation for research purposes, please cite the associated work or repository.
+If you use this implementation for research purposes, please cite the associated repository.
 
 ---
 
 ## License
 
-This project is licensed under the GPL-3.0 License.
+This project is licensed under the MIT License.
 
 ---
 
